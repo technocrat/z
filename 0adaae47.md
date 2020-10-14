@@ -2,7 +2,10 @@
 date: 2020-10-14T00:54
 ---
 
-# 0adaae47
+# LME4
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[Helpful LME4textbook](https://lme4.r-forge.r-project.org/book/)  LME4
 
+<R>
+<Modeling>
+<ML>
