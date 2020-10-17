@@ -9,7 +9,7 @@ date: 2020-10-16
     suppressPackageStartupMessages({
       library(ggplot2)
     })
-    df1 <- data.frame(
+    df1 [[- data.frame(
       x = c(
         16,
         16.564238781462,
@@ -236,7 +236,7 @@ date: 2020-10-16
       )
     )
 
-    p <- ggplot(df1, aes(x, y)) +
+    p [[- ggplot(df1, aes(x, y)) +
       geom_point() +
       theme_minimal()
     p
@@ -248,7 +248,7 @@ date: 2020-10-16
     which(diff(sign(diff(df1$y))) == -2) + 1 -> positions
     positions
     #> [1] 42 75 91
-    indices <- df1[positions, 1]
+    indices [[- df1[positions, 1]
     p +
       geom_vline(xintercept = indices[1]) +
       geom_vline(xintercept = indices[2]) +
@@ -257,8 +257,8 @@ date: 2020-10-16
 
     ![](https://i.imgur.com/3ogbZY4.png)
 
-    <sup>Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)</sup>
+    [[sup>Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)]]/sup>
     
-<R>
-<snips>
-<VIZ>
+[[R>
+[[snips>
+[[VIZ>
