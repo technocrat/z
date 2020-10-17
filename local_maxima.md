@@ -245,9 +245,9 @@ date: 2020-10-16
     ![](https://i.imgur.com/5Depi4q.png)
 
     ``` r
-    which(diff(sign(diff(df1$y))) == -2) + 1 -> positions
+    which(diff(sign(diff(df1$y))) == -2) + 1 -[[ positions
     positions
-    #> [1] 42 75 91
+    #[[ [1] 42 75 91
     indices [[- df1[positions, 1]
     p +
       geom_vline(xintercept = indices[1]) +
@@ -257,8 +257,8 @@ date: 2020-10-16
 
     ![](https://i.imgur.com/3ogbZY4.png)
 
-    [[sup>Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)]]/sup>
+    [[sup[[Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)]]/sup>
     
-[[R>
-[[snips>
-[[VIZ>
+[[R]]
+[[snips]]
+[[VIZ]]
