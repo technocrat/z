@@ -9,7 +9,7 @@ date: 2020-10-16
     suppressPackageStartupMessages({
       library(ggplot2)
     })
-    df1 [[[- data.frame(
+    df1 <- data.frame(
       x = c(
         16,
         16.564238781462,
@@ -236,7 +236,7 @@ date: 2020-10-16
       )
     )
 
-    p [[[- ggplot(df1, aes(x, y)) +
+    p <- ggplot(df1, aes(x, y)) +
       geom_point() +
       theme_minimal()
     p
@@ -245,7 +245,7 @@ date: 2020-10-16
     ![](https://i.imgur.com/5Depi4q.png)
 
     ``` r
-    which(diff(sign(diff(df1$y))) == -2) + 1 -[[[ positions
+    which(diff(sign(diff(df1$y))) == -2) + 1 -> positions
     positions
     #[[[ [1] 42 75 91
     indices [[[- df1[positions, 1]
