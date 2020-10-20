@@ -21,5 +21,5 @@ date: 2020-10-18T00:07
     set.seed(137)
     unlist(prepare(100), recursive = FALSE, use.names = FALSE)
 
-[[R]]
-[[snips]]
+[[[R]]]
+[[[snips]]]
