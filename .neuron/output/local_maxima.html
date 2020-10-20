@@ -62,7 +62,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </style></head><body><div class="ui fluid container" id="neuron-theme-default-blue"><nav class="top-menu"><div class="ui inverted compact neuron icon menu blue"><a class="left item" href="search.html" title="Search Zettels"><i class="search icon"></i></a><a class="right item" href="z-index.html" title="All Zettels (z-index)"><i class="tree icon"></i></a></div></nav><div class="ui text container" id="zettel-container" style="position: relative"><div id="zettel-container-anchor" style="position: absolute; top: -24px; left: 0"></div><div class="zettel-view"><article class="ui raised attached segment zettel-content"><div class="pandoc"><h1 class="" id="local_maxima">local_maxima</h1><div class="pandoc-code highlighted"><pre><code class="r" id=""><span class="">    </span><span class="kw">suppressPackageStartupMessages</span><span class="">({</span>
 <span class="">      </span><span class="kw">library</span><span class="">(ggplot2)</span>
 <span class="">    })</span>
-<span class="">    df1 &lt;-</span><span class="st"> </span><span class="kw">data.frame</span><span class="">(</span>
+<span class="">    df1 [[[</span><span class="op">-</span><span class="st"> </span><span class="kw">data.frame</span><span class="">(</span>
 <span class="">      </span><span class="dt">x =</span><span class=""> </span><span class="kw">c</span><span class="">(</span>
 <span class="">        </span><span class="dv">16</span><span class="">,</span>
 <span class="">        </span><span class="fl">16.564238781462</span><span class="">,</span>
@@ -289,7 +289,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <span class="">      )</span>
 <span class="">    )</span>
 
-<span class="">    p &lt;-</span><span class="st"> </span><span class="kw">ggplot</span><span class="">(df1, </span><span class="kw">aes</span><span class="">(x, y)) </span><span class="op">+</span>
+<span class="">    p [[[</span><span class="op">-</span><span class="st"> </span><span class="kw">ggplot</span><span class="">(df1, </span><span class="kw">aes</span><span class="">(x, y)) </span><span class="op">+</span>
 <span class="st">      </span><span class="kw">geom_point</span><span class="">() </span><span class="op">+</span>
 <span class="st">      </span><span class="kw">theme_minimal</span><span class="">()</span>
 <span class="">    p</span>
@@ -298,10 +298,10 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <span class="dt">    ![](https://i.imgur.com/5Depi4q.png)</span>
 
 <span class="dt">    </span><span class="st">```</span><span class=""> r</span>
-<span class="">    </span><span class="kw">which</span><span class="">(</span><span class="kw">diff</span><span class="">(</span><span class="kw">sign</span><span class="">(</span><span class="kw">diff</span><span class="">(df1</span><span class="op">$</span><span class="">y))) </span><span class="op">==</span><span class="st"> </span><span class="op">-</span><span class="dv">2</span><span class="">) </span><span class="op">+</span><span class="st"> </span><span class="dv">1</span><span class=""> -&gt;</span><span class="st"> </span><span class="">positions</span>
+<span class="">    </span><span class="kw">which</span><span class="">(</span><span class="kw">diff</span><span class="">(</span><span class="kw">sign</span><span class="">(</span><span class="kw">diff</span><span class="">(df1</span><span class="op">$</span><span class="">y))) </span><span class="op">==</span><span class="st"> </span><span class="op">-</span><span class="dv">2</span><span class="">) </span><span class="op">+</span><span class="st"> </span><span class="dv">1</span><span class=""> </span><span class="op">-</span><span class="">[[[ positions</span>
 <span class="">    positions</span>
-<span class="">    </span><span class="co">#&gt; [1] 42 75 91</span>
-<span class="">    indices &lt;-</span><span class="st"> </span><span class="">df1[positions, </span><span class="dv">1</span><span class="">]</span>
+<span class="">    </span><span class="co">#[[[ [1] 42 75 91</span>
+<span class="">    indices [[[</span><span class="op">-</span><span class="st"> </span><span class="">df1[positions, </span><span class="dv">1</span><span class="">]</span>
 <span class="">    p </span><span class="op">+</span>
 <span class="st">      </span><span class="kw">geom_vline</span><span class="">(</span><span class="dt">xintercept =</span><span class=""> indices[</span><span class="dv">1</span><span class="">]) </span><span class="op">+</span>
 <span class="st">      </span><span class="kw">geom_vline</span><span class="">(</span><span class="dt">xintercept =</span><span class=""> indices[</span><span class="dv">2</span><span class="">]) </span><span class="op">+</span>
@@ -310,9 +310,9 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 
 <span class="dt">    ![](https://i.imgur.com/3ogbZY4.png)</span>
 
-<span class="dt">    &lt;sup&gt;Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)&lt;/sup&gt;</span>
+<span class="dt">    [[[sup[[Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)]]]/sup&gt;</span>
 <span class="dt">    </span>
-<span class="dt">&lt;R&gt;</span>
-<span class="dt">&lt;snips&gt;</span>
-<span class="dt">&lt;VIZ&gt;</span>
+<span class="dt">[[[R]]]</span>
+<span class="dt">[[[snips]]]</span>
+<span class="dt">[[[VIZ]]]</span>
 </code></pre></div></div><div class="date" title="Zettel creation date">Created on: <time datetime="2020-10-16">2020-10-16</time></div></article></div></div><div class="ui one column grid footer-version"><div class="center aligned column"><div class="ui tiny image"><a href="https://neuron.zettel.page"><img alt="logo" src="https://raw.githubusercontent.com/srid/neuron/master/assets/neuron.svg" title="Generated by Neuron" /></a></div></div></div></div></body></html>
