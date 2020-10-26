@@ -257,8 +257,7 @@ date: 2020-10-16
 
     ![](https://i.imgur.com/3ogbZY4.png)
 
-    [[[[sup[[Created on 2020-10-16 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)]]]]][/sup>
     
-[[[R]]]]
+[[[R]]]
 [[[snips]]]
 [[[VIZ]]]
