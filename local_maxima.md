@@ -4,6 +4,9 @@ date: 2020-10-16
 
 # local_maxima
 
+[[[R]]]
+[[[snips]]]
+[[[VIZ]]]
 
 ``` r
     suppressPackageStartupMessages({
@@ -258,6 +261,4 @@ date: 2020-10-16
     ![](https://i.imgur.com/3ogbZY4.png)
 
     
-[[[R]]]
-[[[snips]]]
-[[[VIZ]]]
+
