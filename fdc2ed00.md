@@ -8,4 +8,4 @@ date: 2020-11-28T02:34
 	  x <- x[complete.cases(x),]
 	}
     
-[[R]]
+[[[R]]]
