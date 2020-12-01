@@ -3,8 +3,6 @@ date: 2020-10-18
 ---
 
 # pairwise
-
-# FUNCTIONS
     
     is_even <- function(x) x%%2 == 0
     is_hit  <- function(x) is_even(x[1]) & !is_even(x[2]) | !is_even(x[1]) & is_even(x[2])
@@ -21,5 +19,5 @@ date: 2020-10-18
     set.seed(137)
     unlist(prepare(100), recursive = FALSE, use.names = FALSE)
 
-[[R]]]
-[[snips]]
+[[[R]]]
+[[[snips]]]
