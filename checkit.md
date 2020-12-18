@@ -67,6 +67,8 @@ date: 2020-12-16T16:13
 
 [meta-cognition](https://www.ribbonfarm.com/glossary/#legibility)
 
+[nearcasting--forecasting methods](https://community.tibco.com/feed-items/nearcasting-comparison-covid-19-projection-methods)
+
 [nimble R->C++ compiler](https://r-nimble.org/what-is-nimble)
 
 [one-hour package](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/)
