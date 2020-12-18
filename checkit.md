@@ -11,6 +11,8 @@ date: 2020-12-16T16:13
 
 [Auditor](https://cran.r-project.org/web/packages/auditor/index.html)
 
+[bootsrapping time series](https://datageeek.com/2020/12/14/bootstrapping-time-series-for-gold-rush/)
+
 [Category theory relationships](https://www.johndcook.com/category_concepts.png)
 
 [CD demographics](https://arilamstein.com/blog/2020/08/11/exploring-the-demographics-of-us-congressional-districts-in-r/)
