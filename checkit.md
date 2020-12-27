@@ -4,6 +4,7 @@ date: 2020-12-16T16:13
 
 # checkit
 
+[[[top]]]
 
 [2016 county returns](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
 
@@ -79,14 +80,14 @@ date: 2020-12-16T16:13
 
 [Overfitting](https://datascience.stackexchange.com/questions/80868/overfitting-in-linear-regression  )
 
-[Packette](https://www.stats-et-al.com/2020/06/r-packette-fraction-matrix-operations.html)
+[Packette](https://www.statPoisson regression is used for outcome variables that only take positive values such as counts and rates.s-et-al.com/2020/06/r-packette-fraction-matrix-operations.html)
 
 [patchwork insets](https://www.data-imaginist.com/2020/insetting-a-new-patchwork-version/s)
 
 [Plotting multiple models](https://win-vector.com/2020/10/12/model-homotopies-in-the-wild/)
 
 [Power analysis](https://www.rips-irsp.com/articles/10.5334/irsp.181/)
-
+Poisson regression is used for outcome variables that only take positive values such as counts and rates.
 [R front end to LaTeX sparklines](https://github.com/borisveytsman/ltxsparklines)
 
 [rethinking](https://github.com/rmcelreath/statrethinking_winter2019)
