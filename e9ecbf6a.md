@@ -2,7 +2,17 @@
 date: 2020-12-29T17:20
 ---
 
-# e9ecbf6a
+# Permutation of n items
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+		library(combinat)
 
+		v = letters[1:3]
+
+		# Returns a list
+		permn(v)
+
+		# If you want a matrix
+		do.call("rbind", permn(v))
+
+[[[R]]]
+[[snips]]
