@@ -2,7 +2,16 @@
 date: 2020-12-29T18:10
 ---
 
-# 29dcbd5d
+# factory
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+		power1 <- function(exp) {
+			function(x) {
+				x ^ exp
+			}
+		}
 
+		square <- power1(2)
+		cube <- power1(3)
+
+[[[R]]]
+[[snips]]
