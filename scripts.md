@@ -2,7 +2,7 @@
 date: 2020-12-09T05:15
 ---
 
-# scripts
+# script
 
 Collection of complete scripts
 
