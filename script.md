@@ -4,5 +4,8 @@ date: 2020-12-29T23:30
 
 # script
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[[[R]]]
+[[[Haskell]]]
+[[[Python]]]
+[[[bash]]]
 
