@@ -2,7 +2,11 @@
 date: 2020-12-29T21:18
 ---
 
-# afcb311a
+# Pearson's Chi-squared test
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+	qchisq(p=0.95,df=36)
+	chisq.test(x=armed$knife,y=armed$firearm)
 
+[[[stats]]]
+[[R]]
+[[snips]]
