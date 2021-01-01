@@ -17,7 +17,8 @@ date: 2020-12-16T16:13
 [bootsrapping time series](https://datageeek.com/2020/12/14/bootstrapping-time-series-for-gold-rush/)
 
 [Category theory relationships](https://www.johndcook.com/category_concepts.png)
-causal inference] > I like your crisp distinction between stating what one "needs" vs. stating what one "knows". It really summarizes the entire debate between the CI and PO frameworks. In CI we use structure to encode what we know, PO to encode what we wish to know, and logic to connect the two. *@yudapearl* 2020-04-22
+
+> I like your crisp distinction between stating what one "needs" vs. stating what one "knows". It really summarizes the entire debate between the CI and PO frameworks. In CI we use structure to encode what we know, PO to encode what we wish to know, and logic to connect the two. *@yudapearl* 2020-04-22
 
 [cd demographics](https://arilamstein.com/blog/2020/08/11/exploring-the-demographics-of-us-congressional-districts-in-r/)
 
