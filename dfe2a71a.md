@@ -2,7 +2,12 @@
 date: 2021-01-02T14:20
 ---
 
-# dfe2a71a
+# ls list files with grep
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+    ls	list.files()	Lists all the files in a directory
+    ls -R	list.files(recursive = TRUE)	Recursively lists all the files in a directory and all sub-directories
+    ls | grep “something”	list.files(pattern = “something”)	Lists all the files in a directory containing the regex “something”
+    
+[[R]]
+[[[snips]]]
+[[bash]]
