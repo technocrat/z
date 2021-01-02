@@ -2,7 +2,11 @@
 date: 2021-01-02T13:59
 ---
 
-# 6efbc6b0
+# install R package from source
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[[[R]]]
+[[snips]]
 
+```
+install.packages(path\_to\_file, repos = NULL, type="source")
+```
