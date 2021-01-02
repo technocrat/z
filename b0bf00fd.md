@@ -2,7 +2,8 @@
 date: 2021-01-02T14:02
 ---
 
-# b0bf00fd
+# Census cartographic boundry files
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[U.S. Census Cartographic Boundary Files, Counties](http://1.usa.gov/1hiFwj4) accessed 2015-08-04
 
+[[[Census]]]
