@@ -2,7 +2,11 @@
 date: 2021-01-02T14:05
 ---
 
-# 5effbde9
+# group by quantile
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+Note that for any numeric vector x, you can create groups based on quantiles like this:
 
+ 	cut(x, quantile(x, seq(0, 1, 0.1)), include.lowest = TRUE)
+    
+[[[R]]]
+[[snips]]
