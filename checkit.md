@@ -108,6 +108,8 @@ date: 2020-12-16T16:13
 
 [power analysis](https://www.rips-irsp.com/articles/10.5334/irsp.181/)
 
+[questionr](https://juba.github.io/questionr/reference/index.html)
+
 [regression](https://freakonometrics.hypotheses.org/60146)
 
 [representation of time series](https://cran.r-project.org/web/packages/TSrepr/vignettes/TSrepr_representations_of_time_series.html)
