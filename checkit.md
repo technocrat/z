@@ -6,10 +6,6 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
-[2016 county returns](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
-
-[anova](https://www.statsandr.com/blog/anova-in-r/)
-
 [auditor](https://cran.r-project.org/web/packages/auditor/index.html)
 
 [basic classification](https://coreysparks.github.io/blog/demography-predictive-modeling-working-group-basic-methods-for-classification/)
