@@ -2,11 +2,10 @@
 date: 2020-12-16T16:13
 ---
 
-# checkit
+# Checkit
 
 [[[top]]]
 
-[auditor](https://cran.r-project.org/web/packages/auditor/index.html)
 
 [basic classification](https://coreysparks.github.io/blog/demography-predictive-modeling-working-group-basic-methods-for-classification/)
 
