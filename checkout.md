@@ -14,7 +14,7 @@ Overlaps
 
 [Category theory relationships](https://www.johndcook.com/category_concepts.png)
 
-[CD demographics]()https://arilamstein.com/blog/2020/08/11/exploring-the-demographics-of-us-congressional-districts-in-r/)
+[CD demographics](https://arilamstein.com/blog/2020/08/11/exploring-the-demographics-of-us-congressional-districts-in-r/)
 
 [Cluster1](https://coreysparks.github.io/blog/demographic-modeling-cluster-analysis/)
 
@@ -34,7 +34,7 @@ Overlaps
 
 [dissimilarity](https://cran.r-project.org/web/packages/IncDTW/vignettes/Theory_and_Applications_for_the_R_Package_IncDTW.pdf)
 
-[dynamic time warping ](https://cran.r-project.org/web/packages/IncDTW/vignettes/Theory_and_Applications_for_the_R_Package_IncDTW.pdf)
+[dynamic time warping](https://cran.r-project.org/web/packages/IncDTW/vignettes/Theory_and_Applications_for_the_R_Package_IncDTW.pdf)
 
 [easystats](https://easystats.github.io/easystats/)\
 
