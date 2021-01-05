@@ -10,6 +10,8 @@ date: 2020-12-16T16:13
 
 [gitlab](https://gitlab.com/help)
 
+[[gnome snippet synch](https://github.com/oae/gnome-shell-extensions-sync)
+
 [basic classification](https://coreysparks.github.io/blog/demography-predictive-modeling-working-group-basic-methods-for-classification/)
 
 [bootsrapping time series](https://datageeek.com/2020/12/14/bootstrapping-time-series-for-gold-rush/)
