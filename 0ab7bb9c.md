@@ -24,3 +24,5 @@ violating(samplonomy, out)
 #> 871 Induston    Q 2018Q2  export 170000
 ```
 
+See, also [b9c53131](https://data-cleaning.github.io/validate/sect-availableunique.html) for cases with NA and grouping (*cf.* `duplicated`)
+
