@@ -2,10 +2,11 @@
 date: 2020-12-29T23:30
 ---
 
-# script
+# scripts
 
-[[[R]]]
-[[[Haskell]]]
-[[[Python]]]
-[[[bash]]]
+[[R]]
+[[Haskell]]
+[[Python]]
+[[bash]]
+[[[Languages]]]
 
