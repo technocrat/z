@@ -34,6 +34,6 @@ Although the months clearly have an ordering, this is not reflected in the outpu
 		
 [source](https://goo.gl/dyCyWn)
         
-[[[R]]]
-[[snips]]
+[[R]]
+[[[snips]]]
 
