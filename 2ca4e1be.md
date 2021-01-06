@@ -8,5 +8,5 @@ date: 2021-01-01T19:08
     rm(list = kill)
     rm(list = ls(pattern='^b'))
     
-[[[R]]]
-[[snips]]
+[[R]]
+[[[snips]]]
