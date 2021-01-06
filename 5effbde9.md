@@ -8,5 +8,5 @@ Note that for any numeric vector x, you can create groups based on quantiles lik
 
  	cut(x, quantile(x, seq(0, 1, 0.1)), include.lowest = TRUE)
     
-[[[R]]]
-[[snips]]
+[[R]]
+[[[snips]]]
