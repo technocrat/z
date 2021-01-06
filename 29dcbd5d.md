@@ -13,5 +13,5 @@ date: 2020-12-29T18:10
 		square <- power1(2)
 		cube <- power1(3)
 
-[[[R]]]
-[[snips]]
+[[R]]
+[[[snips]]]
