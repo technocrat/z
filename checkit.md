@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[smoothing](https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/)
+
 [rlist](https://github.com/tomasokal/rtist)
 
 [gitlab](https://gitlab.com/help)
