@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[logistic feature engineering](https://appsilon.com/r-logistic-regression/)
+
 [smoothing](https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/)
 
 [rlist](https://github.com/tomasokal/rtist)
