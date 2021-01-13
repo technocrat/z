@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Dunbar's number](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
+
 [A strategy to apply machine learning to small datasets](https://www.nature.com/articles/s41524-018-0081-z)
 
 [predictive power score](https://paulvanderlaken.com/2021/01/12/ppsr-r-package-predictive-power-score/)
