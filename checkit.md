@@ -6,6 +6,9 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+
+[predictive power score](https://paulvanderlaken.com/2021/01/12/ppsr-r-package-predictive-power-score/)
+
 [logistic feature engineering](https://appsilon.com/r-logistic-regression/)
 
 [smoothing](https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/)
