@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Variable selection](https://win-vector.com/2021/01/12/variable-utility-is-not-intrinsic/) and [related code](https://github.com/WinVector/Examples/tree/main/Variable_Utility_is_not_Intrinsic)
+
 [Augmented Dynamic Adaptive Model](https://forecasting.svetunkov.ru/en/2021/01/13/the-creation-of-adam-next-step-in-statistical-forecasting/)
 
 [CRAN Task View: Functional Data Analysis](https://cran.r-project.org/web/views/FunctionalData.html)
