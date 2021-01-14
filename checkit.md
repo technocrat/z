@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[PMCCRPlus](https://cran.r-project.org/web/packages/PMCMRplus/vignettes/QuickReferenceGuide.html) [paper](https://cran.r-project.org/web/packages/PMCMR/vignettes/PMCMR.pdf)
+
 [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
 
 [Variable selection](https://win-vector.com/2021/01/12/variable-utility-is-not-intrinsic/) and [related code](https://github.com/WinVector/Examples/tree/main/Variable_Utility_is_not_Intrinsic)
