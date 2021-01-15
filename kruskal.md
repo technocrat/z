@@ -4,7 +4,8 @@ date: 2021-01-14T02:47
 
 # kruskal
 
-[[[Statistics]]]
+[[[stattests]]]
+[[Statistics]]
 [[R]]
 
 [paper](https://cran.r-project.org/web/packages/PMCMR/vignettes/PMCMR.pdf)
