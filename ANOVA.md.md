@@ -3,7 +3,8 @@ date: 2021-01-03T03:11
 ---
 # ANOVA
 
-[[[Statistics]]]
+[[[stattests]]]
+[[Statistics]]
 [[R]]
 [[review]]
 
