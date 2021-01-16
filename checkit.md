@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[binomTools](https://user2011.r-project.org/TalkSlides/Contributed/18Aug_0950_FocusVI_3-GLM-3_Hansen.pdf)
+
 [Strong typing](https://github.com/moodymudskipper/typed)
 
 [PMCCRPlus](https://cran.r-project.org/web/packages/PMCMRplus/vignettes/QuickReferenceGuide.html) [paper](https://cran.r-project.org/web/packages/PMCMR/vignettes/PMCMR.pdf)
