@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[baseset](https://ropensci.org/blog/2021/01/19/introducing-baseset/)
+
 [binomTools](https://user2011.r-project.org/TalkSlides/Contributed/18Aug_0950_FocusVI_3-GLM-3_Hansen.pdf)
 
 [Strong typing](https://github.com/moodymudskipper/typed)
