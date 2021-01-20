@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[regtools](https://cran.r-project.org/web/packages/regtools/index.html)
+
 ``` r
 library(modeldata)
 library(mgcv)
