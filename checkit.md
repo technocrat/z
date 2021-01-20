@@ -25,7 +25,6 @@ plot(mod, trans = function(x) binomial()$linkinv(x), pages = 1)
 
 ![](https://i.imgur.com/563xWaX.png)
 
-<sup>Created on 2021-01-20 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)</sup>
 
 [baseset](https://ropensci.org/blog/2021/01/19/introducing-baseset/)
 
