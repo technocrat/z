@@ -6,6 +6,27 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+``` r
+library(modeldata)
+library(mgcv)
+#> Loading required package: nlme
+#> This is mgcv 1.8-33. For overview type 'help("mgcv-package")'.
+#> Loading required package: nlme
+#> This is mgcv 1.8-33. For overview type 'help("mgcv-package")'.
+
+data("two_class_dat")
+
+mod <- gam(Class ~ s(A) + s(B), data = two_class_dat, family = binomial)
+
+# The `trans` argument puts them back on the probability scale
+
+plot(mod, trans = function(x) binomial()$linkinv(x), pages = 1)
+```
+
+![](https://i.imgur.com/563xWaX.png)
+
+<sup>Created on 2021-01-20 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0.9001)</sup>
+
 [baseset](https://ropensci.org/blog/2021/01/19/introducing-baseset/)
 
 [binomTools](https://user2011.r-project.org/TalkSlides/Contributed/18Aug_0950_FocusVI_3-GLM-3_Hansen.pdf)
