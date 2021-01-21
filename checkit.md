@@ -6,6 +6,9 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+
+[Overfitting](https://win-vector.com/2021/01/04/the-nature-of-overfitting/)
+
 [regtools](https://cran.r-project.org/web/packages/regtools/index.html)
 
 ``` r
