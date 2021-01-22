@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Structural Equation Models](https://rviews.rstudio.com/2021/01/22/sem-time-series-modeling/)
+
 [marginal effects](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html)
 
 [mixed effects](https://strengejacke.github.io/ggeffects/)
