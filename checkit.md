@@ -6,6 +6,7 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[mixed effects](https://strengejacke.github.io/ggeffects/)
 
 [Overfitting](https://win-vector.com/2021/01/04/the-nature-of-overfitting/)
 
