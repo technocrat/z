@@ -6,7 +6,7 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
-[[marginal effects]](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html)
+[marginal effects](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html)
 
 [mixed effects](https://strengejacke.github.io/ggeffects/)
 
