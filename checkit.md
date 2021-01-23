@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Faraday](file:///home/roc/Documents/pdf/Faraway-PRA.pdf)
+
 [Modelling Count Data in A Multilevel Framework](file:///home/roc/projects/countdata_modelling/index.html)
 
 [Structural Equation Models](https://rviews.rstudio.com/2021/01/22/sem-time-series-modeling/)
