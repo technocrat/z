@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+cwgtools
+
 [Faraday](file:///home/roc/Documents/pdf/Faraway-PRA.pdf)
 
 [Modelling Count Data in A Multilevel Framework](file:///home/roc/projects/countdata_modelling/index.html)
