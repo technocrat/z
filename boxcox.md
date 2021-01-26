@@ -16,7 +16,8 @@ date: 2021-01-10T17:54
       ) -> fc
     fc %>% forecast(h = 56) -> fc
     accuracy(fc,future) 
-    
-[[[TS]]]
+ 
+[[[7d9a7afc]]]
+[[TS]]
 [[snips]]
 [[R]]
