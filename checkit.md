@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Anomoly detection](file://home/roc/Documents/Stats/Downloads/anomolies.pdf)
+
 {sparkTable}
 
 {ClustVarLV}
