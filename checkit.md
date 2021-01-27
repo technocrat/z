@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+{sparkTable}
+
 {ClustVarLV}
 
 {cwgtools}
