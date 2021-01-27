@@ -6,4 +6,4 @@ date: 2021-01-27T01:59
 
 [[[TS]]]
 
-[Paper](file://home/roc/Documents/Stat/Downloads/hotcloud14-vallis.pdf)
+[Paper](file://home/roc/Documents/Stats/Downloads/hotcloud14-vallis.pdf)
