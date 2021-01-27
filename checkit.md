@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Hypothesis checking](https://statsandr.com/blog/hypothesis-test-by-hand/)
+
 [Anomoly detection](file://home/roc/Documents/Stats/Downloads/anomolies.pdf)
 
 {sparkTable}
