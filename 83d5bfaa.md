@@ -2,7 +2,10 @@
 date: 2021-01-27T01:30
 ---
 
-# 83d5bfaa
+# glvma package
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[[[OLS]]]
 
+[Explanatory paper](file:///home/roc/Documents/Stats/Downloads/gvlam.html)
+
+Validate `lm` models
