@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[[AMZ Athena]](https://rud.is/b/2021/02/02/amazon-athena-dbplyr-implicit-usage-of-presto-functions-and-making-json-casting-great-again/)
+
 [interesting packages](https://github.com/ThinkR-open)
 
 [Hypothesis checking](https://statsandr.com/blog/hypothesis-test-by-hand/)
