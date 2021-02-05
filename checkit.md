@@ -4,7 +4,9 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]]
+[[[top]]])
+
+[changepoint detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/)
 
 [target workflow package](https://ropensci.org/technotes/2021/02/03/targets/)
 
