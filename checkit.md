@@ -6,7 +6,9 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
-[[AMZ Athena]](https://rud.is/b/2021/02/02/amazon-athena-dbplyr-implicit-usage-of-presto-functions-and-making-json-casting-great-again/)
+[target workflow package](https://ropensci.org/technotes/2021/02/03/targets/)
+
+[AMZ Athena](https://rud.is/b/2021/02/02/amazon-athena-dbplyr-implicit-usage-of-presto-functions-and-making-json-casting-great-again/)
 
 [interesting packages](https://github.com/ThinkR-open)
 
