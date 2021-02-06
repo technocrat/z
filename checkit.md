@@ -102,8 +102,6 @@ gitlab: enterprise platform
 
 [Category theory relationships](https://www.johndcook.com/category_concepts.png)
 
-> I like your crisp distinction between stating what one "needs" vs. stating what one "knows". It really summarizes the entire debate between the CI and PO frameworks. In CI we use structure to encode what we know, PO to encode what we wish to know, and logic to connect the two. *@yudapearl* 2020-04-22
-
 [cd demographics](https://arilamstein.com/blog/2020/08/11/exploring-the-demographics-of-us-congressional-districts-in-r/)
 
 [cluster analysis](https://coreysparks.github.io/blog/demographic-modeling-cluster-analysis/)
@@ -210,12 +208,6 @@ gitlab: enterprise platform
 
 [state space](https://cran.r-project.org/web/packages/KFAS/vignettes/KFAS.pdf)
 
-> tee %T% # pipe operator unary functions to create function from pipes
-
-[the Dark side of the Force](https://www.darkfactor.org/)
-
 [tidy modeling](https://www.tmwr.org/)
-
-[time series for counts](https://cran.r-project.org/web/packages/surveillance/vignettes/monitoringCounts.pdf)
 
 [two cultures](https://matloff.wordpress.com/2020/07/26/efron-updates-breimans-two-cultures-essay/)
