@@ -4,7 +4,7 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]])
+[[[top]]]
 
 [changepoint detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/)
 
@@ -86,9 +86,9 @@ plot(mod, trans = function(x) binomial()$linkinv(x), pages = 1)
 
 [rlist](https://github.com/tomasokal/rtist)
 
-[gitlab](https://gitlab.com/help)
+gitlab: enterprise platform
 
-[[gnome snippet synch](https://github.com/oae/gnome-shell-extensions-sync)
+[gnome snippet synch](https://github.com/oae/gnome-shell-extensions-sync)
 
 [basic classification](https://coreysparks.github.io/blog/demography-predictive-modeling-working-group-basic-methods-for-classification/)
 
