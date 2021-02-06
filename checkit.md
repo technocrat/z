@@ -6,6 +6,10 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[{target}](https://ropensci.org/blog/2021/02/03/targets/)
+
+[{ networktree}](https://www.zeileis.org/news/networktree100/)
+
 [{wrapr}](https://win-vector.com/2021/02/05/introducing-wraprbc/)
 
 [changepoint detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/)
