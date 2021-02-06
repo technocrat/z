@@ -212,6 +212,4 @@ gitlab: enterprise platform
 
 [time series for counts](https://cran.r-project.org/web/packages/surveillance/vignettes/monitoringCounts.pdf)
 
-[time series plots](https://cran.r-project.org/web/packages/tstools/vignettes/tstools.html)
-
 [two cultures](https://matloff.wordpress.com/2020/07/26/efron-updates-breimans-two-cultures-essay/)
