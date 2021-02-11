@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[R Advanced Solutions](https://advanced-r-solutions.rbind.io/)
+
 [{target}](https://ropensci.org/blog/2021/02/03/targets/)
 
 [{ networktree}](https://www.zeileis.org/news/networktree100/)
