@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[ragg fonts](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
+
 [R Advanced Solutions](https://advanced-r-solutions.rbind.io/)
 
 [{target}](https://ropensci.org/blog/2021/02/03/targets/)
