@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[ConfusionTableR](https://hutsons-hacks.info/confusiontabler-a-package-to-tidy-outputs-of-confusion-matrix-objects-for-storage-in-databases)
+
 [ragg fonts](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
 
 [R Advanced Solutions](https://advanced-r-solutions.rbind.io/)
