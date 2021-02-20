@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[case_when, joins and fcase](https://themockup.blog/posts/2021-02-13-joins-vs-casewhen-speed-and-memory-tradeoffs/)
+
 [box](https://github.com/klmr/box)
 
 [ConfusionTableR](https://hutsons-hacks.info/confusiontabler-a-package-to-tidy-outputs-of-confusion-matrix-objects-for-storage-in-databases)
