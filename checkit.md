@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[regression as master template for common statistical tests](https://lindeloev.github.io/tests-as-linear/)
+
 [svglite](https://www.tidyverse.org/blog/2021/02/svglite-2-0-0/)
 
 [case_when, joins and fcase](https://themockup.blog/posts/2021-02-13-joins-vs-casewhen-speed-and-memory-tradeoffs/)
