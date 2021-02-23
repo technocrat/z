@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[viz course](https://wilkelab.org/SDS375/syllabus.html)
+
 [regression as master template for common statistical tests](https://lindeloev.github.io/tests-as-linear/)
 
 [svglite](https://www.tidyverse.org/blog/2021/02/svglite-2-0-0/)
