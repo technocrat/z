@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[spark](https://blogs.rstudio.com/ai/posts/2020-12-14-sparklyr-1.5.0-released/)
+
 [viz course](https://wilkelab.org/SDS375/syllabus.html)
 
 [regression as master template for common statistical tests](https://lindeloev.github.io/tests-as-linear/)
