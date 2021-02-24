@@ -6,6 +6,16 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[autostsm](https://cran.r-project.org/web/packages/autostsm/vignettes/autostsm_vignette.html)
+
+[cachem](https://cran.r-project.org/web/packages/cachem/index.html)
+
+[eList: List Comprehension and Tools](https://cran.r-project.org/web/packages/eList/index.html)
+
+[rtables](https://cran.r-project.org/web/packages/rtables/vignettes/introduction.html)
+
+[OTrecod: Data Fusion using Optimal Transportation Theory](https://cran.r-project.org/web/packages/OTrecod/index.html)
+
 [spark](https://blogs.rstudio.com/ai/posts/2020-12-14-sparklyr-1.5.0-released/)
 
 [viz course](https://wilkelab.org/SDS375/syllabus.html)
