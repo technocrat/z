@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[blogdown changes](https://community.rstudio.com/t/announcing-blogdown-v1-0/93449)
+
 [autostsm](https://cran.r-project.org/web/packages/autostsm/vignettes/autostsm_vignette.html)
 
 [cachem](https://cran.r-project.org/web/packages/cachem/index.html)
