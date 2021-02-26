@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+https://github.com/RfastOfficial/Rfast)
+
 [blogdown changes](https://community.rstudio.com/t/announcing-blogdown-v1-0/93449)
 
 [autostsm](https://cran.r-project.org/web/packages/autostsm/vignettes/autostsm_vignette.html)
