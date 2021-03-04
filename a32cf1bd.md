@@ -4,7 +4,7 @@ date: 2021-03-04T17:39
 
 # feasts example
 
-[[Package]]
+[[[feasts]]]
 
 ``` r
 suppressPackageStartupMessages({
