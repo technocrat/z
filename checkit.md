@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Data Explorer](https://theautomatic.net/2021/03/03/faster-data-exploration-with-dataexplorer/?utm_source=rss&utm_medium=rss&utm_campaign=faster-data-exploration-with-dataexplorer)
+
 [ppsr](https://paulvanderlaken.com/2021/03/02/ppsr-live-on-cran/)
 
 [XGBoost](https://datageeek.com/2021/03/02/time-series-forecasting-with-xgboost-and-feature-importance/)
