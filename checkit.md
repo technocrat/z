@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[Go in R](https://github.com/rgonomic/rgo)
+
 [data table](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
 
 [Data Explorer](https://theautomatic.net/2021/03/03/faster-data-exploration-with-dataexplorer/?utm_source=rss&utm_medium=rss&utm_campaign=faster-data-exploration-with-dataexplorer)
