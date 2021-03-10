@@ -2,7 +2,8 @@
 date: 2021-03-10T14:58
 ---
 
-# 5fcacf1a
+# logistic output explainer
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[[[logistic]]]
 
+[Stackoverflow](https://stats.stackexchange.com/questions/86351/interpretation-of-rs-output-for-binomial-regression)
