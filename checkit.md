@@ -4,7 +4,7 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]])
+[[[top]]]
 
 [torch](https://blogs.rstudio.com/ai/posts/2021-03-10-forecasting-time-series-with-torch_1/)
 
