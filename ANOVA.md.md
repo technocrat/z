@@ -10,6 +10,8 @@ date: 2021-01-03T03:11
 
 [source](https://statsandr.com/blog/anova-in-r/#fnref2)
 
+[textbook](file:///home/roc/Documents/pdf/oneway_anova_basics.pdf)
+
 > ANOVA: test to determine whether two or more population *means* are different^[ANOVA is a special case of a linear model].
 
     * Student t-test is used to compare 2 groups;
