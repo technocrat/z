@@ -26,7 +26,9 @@ Three categorical (modalities, treatments, factor in R) and on quantitative vari
 Assumes
 
 * independence within and between groups
-* normality of residuals in each group (histogram or qqplot) Shapiro-Wilk or Kolmogorov-Smirnov test^[$H_0$: data come from a normal distribution]
+* normality of residuals in each group (histogram  or qqplot) Shapiro-Wilk or Kolmogorov-Smirnov test^[$H_0$: data come from a normal distribution] NB:  large N datasets almost always [depart from normality](https://stats.stackexchange.com/questions/2492/is-normality-testing-essentially-useless); question is whether it departs *enough* to make a particular test inappropriate.
+
+
 * if not normal, Welch test^[transformation(s) may need to be applied on the raw data in the hope that residuals would better fit a normal distribution, or you would need to use the non-parametric version of the ANOVA—the Kruskal-Wallis test]
 * to relieve normality assumption use non-paramentric Kruskal-Wallis test
 * homodescasity of variance Durbin-Watson test ^[$H_0$ autocorrelation coefficient = 0$]
