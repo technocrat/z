@@ -33,7 +33,7 @@ Assumes
 * to relieve normality assumption use non-paramentric Kruskal-Wallis test
 * homodescasity of variance Durbin-Watson test ^[$H_0$ autocorrelation coefficient = 0$]
 
-Assuming residuals follow a normal distribution, check whether the variances are equal across category or not. Boxplot range is a proxy for dispersion (variance). Confirm with Levene test^[$H_0$ variances are equal].
+Assuming residuals follow a normal distribution, check whether the variances are equal across category or not. Boxplot range is a proxy for dispersion (variance). Confirm with Levene test^[$H_0$ variances are equal]. LevenTest null is all variances are equal.
 
 ANOVA can be calculated different ways
 
