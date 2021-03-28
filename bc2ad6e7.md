@@ -2,7 +2,25 @@
 date: 2021-03-28T19:14
 ---
 
-# bc2ad6e7
+# replace NaN in a data frame
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+[[[munging]]]
+[[functions]]
+[[R]]
+
+
+``` r
+b <- data.frame(c1=c(1, NaN, 2), c2=c(NaN, 2, 7))
+b
+#>    c1  c2
+#> 1   1 NaN
+#> 2 NaN   2
+#> 3   2   7
+b[is.na(b)] <- NA
+b
+#>   c1 c2
+#> 1  1 NA
+#> 2 NA  2
+#> 3  2  7
+```
 
