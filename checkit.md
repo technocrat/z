@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]]
 
+[crosstable](https://cran.r-project.org/web/packages/crosstable/vignettes/crosstable.html)
+
 [geom atlas](https://ivelasq.rbind.io/blog/other-geoms/)
 
 [hmisc explainer](https://www.nicholas-ollberding.com/post/an-introduction-to-the-harrell-verse-predictive-modeling-using-the-hmisc-and-rms-packages/)
