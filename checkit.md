@@ -4,7 +4,26 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]]
+[[[top]]] 
+
+
+[clock: low-level datetime api(https://clock.r-lib.org/articles/articles/motivations.html)
+
+[latex2exp for base and ggplot2](https://github.com/stefano-meschiari/latex2exp)
+
+[Effect of duplicated values](https://www.r-bloggers.com/2021/04/a-curious-fact-on-the-diamonds-dataset/)
+
+[Alternative to correlation coefficient that works also for categorical variables](https://rviews.rstudio.com/2021/04/15/an-alternative-to-the-correlation-coefficient-that-works-for-numeric-and-categorical-variables/)
+
+[Geographic functions in zipcodeR](https://gavinrozzi.github.io/zipcodeR/articles/geographic.html)
+
+[TSForecasting](https://github.com/rakshitha123/TSForecasting#tsforecasting)
+
+[Do Judge a Test by its CoverCombining Combinatorial and Property-Based Testing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7984547/pdf/978-3-030-72019-3_Chapter_10.pdf/?tool=EBI)
+
+[ggh4x ggplot hacks](https://cran.r-project.org/web/packages/ggh4x/index.html)
+
+[cvCovEst: Cross-Validated Covariance Matrix Estimation](https://cran.r-project.org/web/packages/cvCovEst/vignettes/using_cvCovEst.html)
 
 [crosstable](https://cran.r-project.org/web/packages/crosstable/vignettes/crosstable.html)
 
