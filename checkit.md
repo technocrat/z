@@ -7,7 +7,7 @@ date: 2020-12-16T16:13
 [[[top]]] 
 
 
-[clock: low-level datetime api(https://clock.r-lib.org/articles/articles/motivations.html)
+[clock: low-level datetime api](https://clock.r-lib.org/articles/articles/motivations.html)
 
 [latex2exp for base and ggplot2](https://github.com/stefano-meschiari/latex2exp)
 
