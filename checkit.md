@@ -6,6 +6,7 @@ date: 2020-12-16T16:13
 
 [[[top]]] 
 
+[Announcing Ema - Static Sites in Haskell](https://notes.srid.ca/ema-announce)
 
 [clock: low-level datetime api](https://clock.r-lib.org/articles/articles/motivations.html)
 
