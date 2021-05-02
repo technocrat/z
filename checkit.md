@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]] 
 
+[plurr haskell blog](https://plurrrr.com/archive/2020/05/22.html)
+
 [Power of test](https://predictivehacks.com/how-to-get-the-power-of-test-in-hypothesis-testing-with-binomial-distribution/)
 
 [Announcing Ema - Static Sites in Haskell](https://notes.srid.ca/ema-announce)
