@@ -4,7 +4,9 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]] 
+[[[top]]] )
+
+[Functional data analysis](https://rviews.rstudio.com/2021/05/04/functional-data-analysis-in-r/)
 
 [plurr haskell blog](https://plurrrr.com/archive/2020/05/22.html)
 
