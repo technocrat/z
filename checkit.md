@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]] 
 
+[PCA](https://finnstats.com/index.php/2021/05/07/pca/)
+
 [Functional data analysis](https://rviews.rstudio.com/2021/05/04/functional-data-analysis-in-r/)
 
 [plurr haskell blog](https://plurrrr.com/archive/2020/05/22.html)
