@@ -4,7 +4,7 @@ date: 2021-05-20T02:00
 
 # Two-sample Wilcoxon test
 
-[[[stattests]]
+[[[stattests]]]
 [[functions]]
 [[R]]
 
