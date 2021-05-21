@@ -8,6 +8,12 @@ date: 2021-05-20T20:07
 [[R]]
 
 ``` r
+
+the_list <- list("a" = 1, "b" = 2, "c" = 3)
+getElement(the_list, "a")
+
+# `[[` is a function!
+lapply(big_list, "[[", "a")
 set.seed(137); m <- matrix(sample(1:27,9),nrow=3)
 m
 #>      [,1] [,2] [,3]
