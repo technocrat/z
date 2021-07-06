@@ -6,6 +6,8 @@ date: 2020-12-16T16:13
 
 [[[top]]] 
 
+[outliers](https://joachim-gassen.github.io/2021/07/outliers/)
+
 [Best subset selection](https://cran.r-project.org/web/packages/abess/vignettes/abess-guide.html)
 
 [PCA](https://finnstats.com/index.php/2021/05/07/pca/)
