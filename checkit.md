@@ -4,7 +4,9 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]] 
+[[[top]]] )
+
+[Rust text summarizer](https://towardsdatascience.com/tagged/rust?p=4df05f9327a5)
 
 [outliers](https://joachim-gassen.github.io/2021/07/outliers/)
 
@@ -13,8 +15,6 @@ date: 2020-12-16T16:13
 [PCA](https://finnstats.com/index.php/2021/05/07/pca/)
 
 [Functional data analysis](https://rviews.rstudio.com/2021/05/04/functional-data-analysis-in-r/)
-
-[plurr haskell blog](https://plurrrr.com/archive/2020/05/22.html)
 
 [Power of test](https://predictivehacks.com/how-to-get-the-power-of-test-in-hypothesis-testing-with-binomial-distribution/)
 
@@ -46,7 +46,6 @@ date: 2020-12-16T16:13
 
 [torch](https://blogs.rstudio.com/ai/posts/2021-03-10-forecasting-time-series-with-torch_1/)
 
-[Go in R](https://github.com/rgonomic/rgo)
 
 [data table](https://hutsons-hacks.info/data-table-everything-you-need-to-know-to-get-you-started-in-r)
 
@@ -295,3 +294,6 @@ gitlab: enterprise platform
 [tidy modeling](https://www.tmwr.org/)
 
 [two cultures](https://matloff.wordpress.com/2020/07/26/efron-updates-breimans-two-cultures-essay/)
+
+[Go in R](https://github.com/rgonomic/rgo)
+[plurr haskell blog](https://plurrrr.com/archive/2020/05/22.html)
