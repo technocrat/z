@@ -4,7 +4,7 @@ date: 2020-12-16T16:13
 
 # Checkit
 
-[[[top]]] )
+[[[top]]] 
 
 [Rust text summarizer](https://towardsdatascience.com/tagged/rust?p=4df05f9327a5)
 
