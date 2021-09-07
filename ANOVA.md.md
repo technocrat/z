@@ -17,37 +17,37 @@ date: 2021-01-03T03:11
     * Student t-test is used to compare 2 groups;
     * ANOVA generalizes the t-test beyond 2 groups, so it is used to compare 3 or more groups.
 
-Besides one-way ANOVA^[one way as in one variable]: two-way ANOVA, mixed ANOVA, repeated measures ANOVA, etc.
+Besides one-way ANOVA (one way as in one variable): two-way ANOVA, mixed ANOVA, repeated measures ANOVA, etc.
 
 Compares the two variances $\frac{variance_{between}}{variance_{within}}$ ratio compared to [Fisher probability distribution](https://en.wikipedia.org/wiki/Fisher%27s_exact_test).
 
-Three categorical (modalities, treatments, factor in R) and on quantitative variables. $H_0$ *all* categories have equal mean. $H_1$ *at least one* has a different mean.
+Three categorical (modalities, treatments, factor in R) and on quantitative variables. H_0 *all* categories have equal mean. H_1 *at least one* has a different mean.
 
 Assumes
 
 * independence within and between groups
-* normality of residuals in each group (histogram  or qqplot) Shapiro-Wilk or Kolmogorov-Smirnov test^[$H_0$: data come from a normal distribution] NB:  large N datasets almost always [depart from normality](https://stats.stackexchange.com/questions/2492/is-normality-testing-essentially-useless); question is whether it departs *enough* to make a particular test inappropriate.
+* normality of residuals in each group (histogram  or qqplot) Shapiro-Wilk or Kolmogorov-Smirnov test H_0: data come from a normal distribution NB:  large N datasets almost always [depart from normality](https://stats.stackexchange.com/questions/2492/is-normality-testing-essentially-useless); question is whether it departs *enough* to make a particular test inappropriate.
 
 [Shapiro null](https://stackoverflow.com/questions/7781798/seeing-if-data-is-normally-distributed-in-r/7788452#7788452)
 
-* if not normal, Welch test^[transformation(s) may need to be applied on the raw data in the hope that residuals would better fit a normal distribution, or you would need to use the non-parametric version of the ANOVA—the Kruskal-Wallis test]
+* if not normal, Welch test transformation(s) may need to be applied on the raw data in the hope that residuals would better fit a normal distribution, or you would need to use the non-parametric version of the ANOVA—the Kruskal-Wallis test
 * to relieve normality assumption use non-paramentric Kruskal-Wallis test
-* homodescasity of variance Durbin-Watson test ^[$H_0$ autocorrelation coefficient = 0$]
+* homodescasity of variance Durbin-Watson test H_0 autocorrelation coefficient = 0]
 
-Assuming residuals follow a normal distribution, check whether the variances are equal across category or not. Boxplot range is a proxy for dispersion (variance). Confirm with Levene test^[$H_0$ variances are equal]. LevenTest null is all variances are equal.
+Assuming residuals follow a normal distribution, check whether the variances are equal across category or not. Boxplot range is a proxy for dispersion (variance). [Confirm with Levene test H_0 variances are equal](https://stat.ethz.ch/pipermail/r-help/2010-March/232641.html). LevenTest null is all variances are equal.
 
 ANOVA can be calculated different ways
 
-* oneway.test^[$H_0 = no difference; confirm]
+* oneway.test Hg_0 = no difference; confirm
 * summary of aov()
 
 ANOVA used when variances are equal; Welch test used when variances are unequal. oneway.test gives more complete statistics with argument `var.equal = FALSE` for Welch.
 
-If $H_0$ rejected, that's it. If not, proceed to find out *which* group differs from the others with *post-hoc* pairwise tests.
+If H_0 rejected, that's it. If not, proceed to find out *which* group differs from the others with *post-hoc* pairwise tests.
 
-Multiple testing problem: with as few as 3 tests being considered, 0.1426 chance of observing at least one significant result by chance, even if all of the tests are actually not significant. Approaches 0.99 with 14 groups. Post-hoc tests adjust $\alpha$ to give a "gloval" significance level.
+Multiple testing problem: with as few as 3 tests being considered, 0.1426 chance of observing at least one significant result by chance, even if all of the tests are actually not significant. Approaches 0.99 with 14 groups. Post-hoc tests adjust $\alpha$ to give a "global" significance level.
 
-* Tukey HSD^[Honest Significant Difference] is used to compare all groups to each other (so all possible comparisons of 2 groups)^[$H_0$ two groups are equal &there4; if p-value < $\alpha$ it is rejected]
+* Tukey HSD Honest Significant Difference is used to compare all groups to each other (so all possible comparisons of 2 groups) H_0 two groups are equal there; if p-value < $\alpha$ it is rejected]
 * Dunnett is used to make comparisons with a reference group^[Same null evaluation]. For example, consider 2 treatment groups and one control group. If you only want to compare the 2 treatment groups with respect to the control group, and you do not want to compare the 2 treatment groups to each other, the Dunnett’s test is preferred.^[The reference category can be changed with the relevel() function (or with the {questionr} addin).] 
 * other p-values adjustment methods use `the pairwise.t.test()`
 
