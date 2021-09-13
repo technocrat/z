@@ -4,7 +4,7 @@ date: 2021-08-14T23:42
 
 # logical subset
 
-[[snips]]
+[[[snips]]]
 [[R]]
 
 ``` r
